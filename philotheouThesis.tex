@@ -1,0 +1,73 @@
+\documentclass[a4paper,12 pt,twoside]{report} 
+\usepackage{fullpage}
+  
+\usepackage{mystyle}
+
+
+\begin{document}
+
+\input{./chapters/firstPages.tex}
+
+
+\input{./chapters/intro.tex}
+
+\newevenside
+\newevenside
+\part{Ανασκόπηση Γνωστικού Πεδίου}
+\newevenside
+\label{part:background}
+  \input{./chapters/machineLearningAndClassification.tex}
+  \newevenside
+  \newevenside
+  \input{./chapters/geneticAlgorithms.tex}
+  \newevenside
+  \newevenside
+  \input{./chapters/singleLabelLearningClassifierSystems.tex}
+  
+\newevenside
+\newevenside
+\part{Πολυκατηγορική Ταξινόμηση με \\ Μανθάνοντα Συστήματα Ταξινομητών}
+
+
+\label{part:mainPart}
+  \newevenside
+  \input{./chapters/gmlaslcs0.tex}
+  \newevenside
+  \newevenside
+  \input{./chapters/gmlaslcs.tex}
+
+  \input{./chapters/mlTestbedsExperiments.tex}
+  \cleardoublepage
+  \input{./chapters/mllcsExperiments.tex}
+
+%\newevenside
+%\newevenside
+\part{Συμπεράσματα \& \\Μελλοντικές Επεκτάσεις}
+\newevenside
+
+  \label{part:futurePart}
+  \newevenside
+  \input{./chapters/conclusions.tex}
+
+
+  \input{./chapters/futureWork.tex}
+
+
+
+\part{Παραρτήματα}
+
+\titleformat{\chapter}[display]{\scshape}
+ {\huge\chaptertitlename\ \Huge\thechapter}{32pt}{\Large}
+
+\appendix
+\newevenside
+\newevenside
+\input{./chapters/termTranslation.tex}
+
+%%Bibliography
+\nocite{Tzima2010a, Tzima2010b}
+\addcontentsline{toc}{chapter}{Βιβλιογραφία}
+
+\bibliography{bibliography}
+
+\end{document}

@@ -1,0 +1,40 @@
+\definecolor{orangecolour}{RGB}{255,165,0}
+\definecolor{greycolour}{RGB}{230,230,230}
+
+% Define block styles
+
+\tikzstyle{environment} = [rectangle, draw, thick, fill=greycolour, text centered, rounded corners, minimum height=4em, minimum width=30em]  
+    
+\tikzstyle{block} = [rectangle, draw, thick, fill=orangecolour, text width=10em, text centered, rounded corners, minimum height=4em, minimum width=10em]
+
+\tikzstyle{population} = [rectangle, draw, thick, fill=orangecolour, text width=5em, text centered, rounded corners, minimum height=15em]  
+
+\tikzstyle{cmnts} = [rectangle, ]
+
+    
+    
+\begin{tikzpicture}[node distance = 2cm, auto]
+    % Place nodes
+    \node [environment] (init) {Περιβάλλον (ροή δειγμάτων)};
+    \coordinate[below=1cm of init] (a4) {};
+    \node [population, below left of=a4, node distance=5.5cm] (population) {$[P]$};
+    \node [block, below right of=a4, node distance=3cm] (inference) {Συνιστώσα Επίδοσης};
+    \node [block, below of=inference, node distance=2cm] (update) {Συνιστώσα Ενίσχυσης};
+    \node [block, below of=update, node distance=2cm] (exploration) {Συνιστώσα Ανακάλυψης};
+    % Draw edges
+	\draw[ultra thick, ->](init.south 		-| population.north) 	-- (population.north);
+	\draw[ultra thick, ->](population.east 	|- inference.west) 		-- (inference.west);
+	\draw[ultra thick, ->](update.west 		|- population.east)		-- (population.east);
+	\draw[ultra thick, <-](init.south 		-| inference.north) 	-- (inference.north);
+	\draw[ultra thick, ->](population.east 	|- exploration.west) 	-- (exploration.west); 
+	\draw[ultra thick, <-](population.east 	|- exploration.west) 	-- (exploration.west); 
+	%\draw[ultra thick, ->] (init.south) -| ($(update.east)+(0.5cm,0)$) |- (update.east);
+	\draw[ultra thick, ->]($(init.south)+(5.5cm,0)$ -| update.east) 	|- (update.east);
+	% Place text comments
+    \node [below left=0.6cm and -2cm of init](cmnts){Δείγμα};
+    \node [below left=0.6cm and -8.3cm of init, align=center](cmnts){Προβλεπόμενη\\Ενέργεια};
+    \node [below right=0.6cm and -0.5cm of init](cmnts){Ανάδραση};
+
+\end{tikzpicture}
+
+

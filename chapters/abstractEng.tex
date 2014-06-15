@@ -1,0 +1,58 @@
+{\fontfamily{cmr}\selectfont 
+
+\begin{center}
+\centering
+\textbf{\Large{Title}}
+\vspace{0.5cm}
+
+\textbf{\large{Multi-label Classification with Learning Classifier Systems}}
+
+\vspace{1cm}
+
+\centering
+\textbf{Abstract}
+\end{center}
+
+
+
+Due to the rising growth of data production worldwide and the turn of mankind to process automation, in the last decades there has been a rising interest in Machine Learning, a branch of Computational Intelligence that deals with the construction and study of machines that can learn from experience, so as to tackle the immense task of automation - a task that can be matched by no human being. Said automation takes the form of prediction, explanation and/or comprehension of the underlying data of a target problem. If the problem at hand can be described by a set of data collected at some point in time, there is a plethora of machine learning techniques that can induce easily comprehensible  models that employ various means of classification, like classification rules or decision trees. However, there are a number of occasions, for example when the problem presupposes interaction with other (external) entities, that impose restrictions on the number and sort of applicable methods, making Learning Classifier Systems the best (if not only) option.
+
+Learning Classifier Systems (LCS) belong to a class of Genetics-Based Machine Learning (GBML) systems, designed to work for both sequential and single-step problems, using classification rules. The present Diploma Thesis focuses on classification problems and, more specifically,  uses the LCS framework to tackle multi-label classification problems.
+
+Multi-label classification is a Data Mining task in which a data instance is assigned multiple target labels. Multi-label data are very common in real world problems, such as medical diagnosis, document categorization and gene association with biological functions.
+
+The current Diploma Thesis is based on and extends the multi-label Michigan LCS, GMl-ASLCS, which in turn extends the supervised learning scheme of AS-LCS on the realm of multiple labels. It is important to note that, to our knowledge, this multi-label approach with LCS is one of the first in the field.
+
+Based on the aforementioned frame of reference, our approach moves on the tracks of: i) gaining insight into the operations of a (multi-label) LCS, by studying and analyzing its internal functions, ii) approaching the problem and the studied LCS through an engineering viewpoint rather than that of a Computer Science one (in the sense of studying the broader behaviour of the different components that a LCS consists of and the changes in its behaviour brought by modifying its individual running parameters) and, iii) the overall improvement of GMl-ASLCS's behaviour, in light of the above statements, with respect to the evaluation metrics employed and the behaviour of its individual components.
+
+Following this approach results in a series of remarks and the invention and adoption of a number of correctional and structural actions. 
+\begin{enumerate}
+\item By delving deeper into the function of the Genetic Algorithm that is part of an LCS, we propose the adoption of a new crossover operator, the Two Segment Crossover operator, that pertains to the multi-label nature of the classification problem.
+\item We introduce a new deletion mechanism, that is applied on individual rule sets rather than the population, for the purpose of augmenting the number of instances that an LCS can accurately classify.
+\item By analyzing the internal behaviour of the initial GMl-ASLCS, we discover the grave repercussions of preserving rules that are unable of classifying even a single instance and we suggest the adoption of a mechanism that eliminates them.
+\item We also observe the impact of the overaccumulation of non-explicit decisions about labels in the rules' consequent part and adopt a mechanism for mitigating it.
+\end{enumerate}
+
+Finally, we study and remark on the different functions that an LCS employes (that can be used to deduce valuable conclusions on multi-label and single-label LCS) and we suggest a number of variations in the definition of GMl-ASLCS for increasing its performance. These variations include a population initialization component by means of clustering the instances of the data-set that GMl-ASLCS is being trained with.
+
+A preliminary evaluation of the final version of GMl-ASLCS is performed on three multi-label testbed problems, designed to challenge GMl-ASLCS's perormance in environments that are less complex than real-world multi-label data-sets/problems. Regarding these real-world multi-label problems, we test GMl-ASLCS on six of them and GMl-ASLCS's performance is compared with that of the initial GMl-ASLCS and three state-of-the-art algorithms used in multi-label classification, namely RA$k$EL-J48, Ml$k$NN and BR-J48. The results show that GMl-ASLCS ranks first among them, revealing that there is no statistically significant performance differences between the current version of GMl-ASLCS and its three rival non-LCS-based methods. In contrast, the performance of the current version of GMl-ASLCS exhibits a statistically significant performance difference with respect to the initial GMl-ASLCS.
+
+Finally, we examine the individual impact of the four major changes we introduced to the initial GMl-ASLCS framework, on the aforementioned multi-label test-beds and evaluate the performance of the above variations of GMl-ASLCS on the same set of real-world problems. Among these variations, we distinguish one that uses clustering to initialize the LCS's population and one that “discards" non-explicit decisions of rules about labels, by not allowing them to have any effect on the fitness calculation method.
+
+Overall, the present thesis results in an improvement of the behaviour of the individual components that GMl-ASLCS consists of and of the overall behaviour of GMl-ASLCS itself. These improvements vary and concern the accuracy of the model that GMl-ASLCS builds and the increase of the number of instances GMl-ASLCS can accurately classify.
+\\
+
+\begin{flushright}
+\vspace{2cm}
+Alexandros Philotheou
+\\
+Intelligent Systems \& Software Engineering Lab,
+\\
+Electrical \& Computer Engineering Department,
+\\
+Aristotle University of Thessaloniki, Greece
+\\
+July 2013
+\end{flushright}
+
+}
