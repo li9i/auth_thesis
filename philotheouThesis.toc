@@ -18,18 +18,18 @@
 \contentsline {subsubsection}{Τεχνητά Νευρωνικά Δίκτυα}{15}{equation.2.4.1}
 \contentsline {subsubsection}{Μηχανές Διανυσμάτων Υποστήριξης - SVMs}{16}{equation.2.4.2}
 \contentsline {subsubsection}{Ταξινομητές Βασισμένοι σε Κανόνες}{16}{equation.2.4.2}
-\contentsline {subsubsection}{Ταξινομητές συνόλων}{16}{equation.2.4.5}
+\contentsline {subsubsection}{Ταξινομητές συνόλων}{17}{equation.2.4.5}
 \contentsline {subsection}{\numberline {2.4.2}Μετρικές Αξιολόγησης Αλγορίθμων Κατηγοριοποίησης}{17}{subsection.2.4.2}
 \contentsline {subsubsection}{Μετρικές με όρους αποδοχής και απόρριψης}{17}{subsection.2.4.2}
 \contentsline {subsubsection}{Καμπύλες ROC}{19}{equation.2.4.9}
 \contentsline {subsubsection}{Μετρικές ειδικά για ταξινομητές βασισμένους σε κανόνες}{19}{equation.2.4.9}
 \contentsline {section}{\numberline {2.5}Πολυκατηγορική ταξινόμηση}{20}{section.2.5}
 \contentsline {subsection}{\numberline {2.5.1}Μέθοδοι Μετασχηματισμού Προβλημάτων}{21}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Προσαρμογή Αλγορίθμων}{22}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.2}Προσαρμογή Αλγορίθμων}{23}{subsection.2.5.2}
 \contentsline {subsection}{\numberline {2.5.3}Συσχετίσεις Ετικετών}{23}{subsection.2.5.3}
 \contentsline {subsection}{\numberline {2.5.4}Ιδιότητες Πολυκατηγορικών Συνόλων Δεδομένων}{24}{subsection.2.5.4}
 \contentsline {subsection}{\numberline {2.5.5}Αξιολόγηση Πολυκατηγορικών Ταξινομητών}{26}{subsection.2.5.5}
-\contentsline {subsection}{\numberline {2.5.6}Στρατηγικές Συμπερασμού Πολυκατηγορικών Ταξινομητών}{27}{subsection.2.5.6}
+\contentsline {subsection}{\numberline {2.5.6}Στρατηγικές Συμπερασμού Πολυκατηγορικών Ταξινομητών}{28}{subsection.2.5.6}
 \contentsline {chapter}{\numberline {3}Γενετικοί Αλγόριθμοι}{31}{chapter.3}
 \contentsline {section}{\numberline {3.1}Βιολογία και Γενετικοί Αλγορίθμοι}{31}{section.3.1}
 \contentsline {section}{\numberline {3.2}Αλγόριθμος Εξέλιξης}{33}{section.3.2}
@@ -45,7 +45,7 @@
 \contentsline {subsection}{\numberline {4.1.1}Είδη Προβλημάτων}{44}{subsection.4.1.1}
 \contentsline {section}{\numberline {4.2}ZCS: ΜαΣΤ Βασισμένο στη Δύναμη}{44}{section.4.2}
 \contentsline {section}{\numberline {4.3}XCS: ΜαΣΤ Βασισμένο στην Ακρίβεια Πρόβλεψης}{45}{section.4.3}
-\contentsline {section}{\numberline {4.4}UCS: ΜαΣΤ για προβλήματα Επιβλεπόμενης Μάθησης}{46}{section.4.4}
+\contentsline {section}{\numberline {4.4}UCS: ΜαΣΤ για προβλήματα Επιβλεπόμενης Μάθησης}{47}{section.4.4}
 \contentsline {section}{\numberline {4.5}*S-LCS: Γενικευμένα ΜαΣΤ για Εξόρυξη Δεδομένων}{48}{section.4.5}
 \contentsline {part}{II\hspace {1em}Πολυκατηγορική Ταξινόμηση με \\ Μανθάνοντα Συστήματα Ταξινομητών}{51}{part.2}
 \contentsline {chapter}{\numberline {5}Πολυκατηγορική Ταξινόμηση με τον GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$}{53}{chapter.5}
@@ -60,11 +60,11 @@
 \contentsline {section}{\numberline {5.3}Συνιστώσα Εξερεύνησης}{60}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}Γενετικός Αλγόριθμος}{60}{subsection.5.3.1}
 \contentsline {subsubsection}{Τελεστές Διασταύρωσης και Μετάλλαξης}{62}{equation.5.3.5}
-\contentsline {subsubsection}{Διαδικασία εισαγωγής απογόνων στον πληθυσμό}{62}{figure.caption.11}
+\contentsline {subsubsection}{Διαδικασία εισαγωγής απογόνων στον πληθυσμό}{63}{figure.caption.11}
 \contentsline {subsubsection}{Λειτουργία Διαγραφής}{63}{figure.caption.11}
-\contentsline {subsection}{\numberline {5.3.2}Λειτουργία Κάλυψης}{63}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.2}Λειτουργία Κάλυψης}{64}{subsection.5.3.2}
 \contentsline {subsection}{\numberline {5.3.3}Αφαίρεση των κανόνων μηδενικής κάλυψης}{64}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Αρχικοποίηση Παραμέτρων Κανόνων}{64}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.4}Αρχικοποίηση Παραμέτρων Κανόνων}{65}{subsection.5.3.4}
 \contentsline {section}{\numberline {5.4}Συνιστώσα Επίδοσης}{65}{section.5.4}
 \contentsline {subsection}{\numberline {5.4.1}Μέθοδος Ψηφοφορίας}{65}{subsection.5.4.1}
 \contentsline {subsection}{\numberline {5.4.2}Μέθοδος ρύθμισης κατωφλίου PCut}{67}{subsection.5.4.2}
@@ -79,26 +79,26 @@
 \contentsline {section}{\numberline {6.3}Συνιστώσα Ενίσχυσης}{87}{section.6.3}
 \contentsline {subsection}{\numberline {6.3.1}Ενημέρωση Καταλληλότητας}{87}{subsection.6.3.1}
 \contentsline {subsection}{\numberline {6.3.2}Διεύρυνση της Μέσης Κάλυψης}{88}{subsection.6.3.2}
-\contentsline {section}{\numberline {6.4}Παρατηρήσεις πάνω σε λειτουργίες του GMl-ASLCS }{91}{section.6.4}
+\contentsline {section}{\numberline {6.4}Παρατηρήσεις πάνω σε λειτουργίες του GMl-ASLCS }{92}{section.6.4}
 \contentsline {subsection}{\numberline {6.4.1}Μη Συμμετοχή των Αδιαφοριών Στα Correct Sets}{92}{subsection.6.4.1}
 \contentsline {subsection}{\numberline {6.4.2}Για την Έκπτωση Καταλληλότητας στη Συνιστώσα Εξερεύνησης}{93}{subsection.6.4.2}
 \contentsline {subsection}{\numberline {6.4.3}Διάστημα Ενημέρωσης}{96}{subsection.6.4.3}
-\contentsline {subsection}{\numberline {6.4.4}Παρατηρήσεις πάνω στη μέση κάλυψη}{96}{subsection.6.4.4}
+\contentsline {subsection}{\numberline {6.4.4}Παρατηρήσεις πάνω στη μέση κάλυψη}{97}{subsection.6.4.4}
 \contentsline {subsection}{\numberline {6.4.5}Για το ρυθμό μεταβολής του μεγέθους του πληθυσμού στα πρώιμα στάδια της εκπαίδευσης}{98}{subsection.6.4.5}
 \contentsline {section}{\numberline {6.5}Αρθρωτές Τροποποιήσεις}{99}{section.6.5}
 \contentsline {subsection}{\numberline {6.5.1}Τροποποίηση της Ενημέρωσης Καταλληλότητας στη Συνιστώσα Ενίσχυσης}{99}{subsection.6.5.1}
 \contentsline {subsection}{\numberline {6.5.2}Τροποποίηση της Λειτουργίας Διαγραφής}{99}{subsection.6.5.2}
 \contentsline {subsection}{\numberline {6.5.3}Εναλλακτικές τιμές των μεταβλητών $\omega , \phi $}{100}{subsection.6.5.3}
 \contentsline {subsection}{\numberline {6.5.4}Αρχικοποίηση Πληθυσμού μέσω Ομαδοποίησης}{100}{subsection.6.5.4}
-\contentsline {section}{\numberline {6.6}Σύνοψη}{101}{section.6.6}
+\contentsline {section}{\numberline {6.6}Σύνοψη}{102}{section.6.6}
 \contentsline {chapter}{\numberline {7}Πειράματα Τεχνητών Συνόλων Δεδομένων}{103}{chapter.7}
 \contentsline {section}{\numberline {7.1}Περιγραφή των Τεχνητών Συνόλων Δεδομένων}{103}{section.7.1}
 \contentsline {subsection}{\numberline {7.1.1}Το πρόβλημα $mlPosition_{N}$}{104}{subsection.7.1.1}
 \contentsline {subsection}{\numberline {7.1.2}Το πρόβλημα $mlIdentity_{N}$}{105}{subsection.7.1.2}
 \contentsline {subsection}{\numberline {7.1.3}Το πρόβλημα $adder^{k}_{N}$}{106}{subsection.7.1.3}
-\contentsline {section}{\numberline {7.2}Παράμετροι Πειραμάτων και Αρχικές Παρατηρήσεις}{107}{section.7.2}
+\contentsline {section}{\numberline {7.2}Παράμετροι Πειραμάτων και Αρχικές Παρατηρήσεις}{108}{section.7.2}
 \contentsline {section}{\numberline {7.3}Αποτίμηση των Τροποποιήσεων του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$}{108}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Ο GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$ ως σημείο αναφοράς}{108}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.1}Ο GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$ ως σημείο αναφοράς}{109}{subsection.7.3.1}
 \contentsline {subsection}{\numberline {7.3.2}Οι τροποποιημένοι αλγόριθμοι GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0*}$ στο πρόβλημα $mlPosition_{7}$}{109}{subsection.7.3.2}
 \contentsline {subsection}{\numberline {7.3.3}Οι τροποποιημένοι αλγόριθμοι GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0*}$ στο πρόβλημα $mlIdentity_{7}$}{110}{subsection.7.3.3}
 \contentsline {subsection}{\numberline {7.3.4}Οι τροποποιημένοι αλγόριθμοι GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0*}$ στο πρόβλημα $adder_{7}^{3}$}{111}{subsection.7.3.4}
@@ -125,7 +125,7 @@
 \contentsline {section}{\numberline {9.1}Περιορισμοί και Πλεονεκτήματα των ΜαΣΤ}{157}{section.9.1}
 \contentsline {chapter}{\numberline {10}Μελλοντικές Επεκτάσεις}{159}{chapter.10}
 \contentsline {section}{\numberline {10.1}Μη επίμονη ενημέρωση παραμέτρων των κανόνων του ΜαΣΤ}{159}{section.10.1}
-\contentsline {section}{\numberline {10.2}Αντικατάσταση της μεθόδου υπολογισμού της Ακρίβειας των Κανόνων}{161}{section.10.2}
+\contentsline {section}{\numberline {10.2}Αντικατάσταση της μεθόδου υπολογισμού της Ακρίβειας των Κανόνων}{160}{section.10.2}
 \contentsline {section}{\numberline {10.3}Περί του $\theta _{GA}$}{161}{section.10.3}
 \contentsline {section}{\numberline {10.4}Περί του $\theta _{exp}$}{162}{section.10.4}
 \contentsline {section}{\numberline {10.5}Περί των διαγραφών}{163}{section.10.5}

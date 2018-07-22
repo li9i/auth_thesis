@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: philotheouThesis.aux
+The style file: alpha.bst
+Database file #1: bibliography.bib
+Warning--empty journal in aly2005survey
+Warning--can't use both author and editor fields in freitas
+Warning--empty journal in read2010scalable
+Warning--empty journal in watkins1989learning
+You've used 50 entries,
+            2543 wiz_defined-function locations,
+            860 strings with 12935 characters,
+and the built_in function-call counts, 21518 in all, are:
+= -- 2209
+> -- 938
+< -- 41
++ -- 314
+- -- 312
+* -- 1475
+:= -- 3427
+add.period$ -- 162
+call.type$ -- 50
+change.case$ -- 298
+chr.to.int$ -- 50
+cite$ -- 54
+duplicate$ -- 922
+empty$ -- 1582
+format.name$ -- 378
+if$ -- 4524
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 56
+newline$ -- 255
+num.names$ -- 155
+pop$ -- 313
+preamble$ -- 1
+purify$ -- 359
+quote$ -- 0
+skip$ -- 781
+stack$ -- 0
+substring$ -- 1279
+swap$ -- 221
+text.length$ -- 41
+text.prefix$ -- 17
+top$ -- 0
+type$ -- 360
+warning$ -- 4
+while$ -- 217
+width$ -- 58
+write$ -- 664
+(There were 4 warnings)

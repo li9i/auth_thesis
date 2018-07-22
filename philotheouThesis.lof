@@ -1,0 +1,48 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Χάρτης Θερμότητας του συνόλου δεδομένων genbase.\relax }}{25}{figure.caption.6}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Χάρτης Θερμότητας του συνόλου δεδομένων enron.\relax }}{25}{figure.caption.6}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Γράφος Συσχέτισης του συνόλου δεδομένων scene.\relax }}{25}{figure.caption.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Κατανομή ατόμων σε μία εικονική ρουλέτα.\relax }}{36}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Εξωτερική Μορφή Μανθάνοντος Συστήματος Ταξινομητών.\relax }}{42}{figure.caption.9}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Εσωτερική Μορφή ΜαΣΤ τύπου Michigan.\relax }}{44}{figure.caption.10}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Διαδικασία Διασταύρωσης στον GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$.\relax }}{62}{figure.caption.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Διασταύρωση Δύο Τμημάτων, με διαφορετικά σημεία διασταύρωσης ανά απόγονο στον GMl-ASLCS\relax }}{73}{figure.caption.13}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Διασταύρωση Δύο Τμημάτων, με ένα σημείο διασταύρωσης στον GMl-ASLCS\relax }}{74}{figure.caption.14}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Διακυμάνσεις του αριθμού των κανόνων του πληθυσμού $[P]$ και συμπίεση των χρήσιμων κανόνων του λόγω της υπέρμετρης δημιουργίας κανόνων μηδενικής κάλυψης στον GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$.\relax }}{78}{figure.caption.15}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Ομαλοποίηση του αριθμού των κανόνων του πληθυσμού $[P]$, μέσω της αποφυγής πρόσθεσης κανόνων μηδενικής κάλυψης στον πληθυσμό, στον GMl-ASLCS.\relax }}{79}{figure.caption.16}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Καμπύλες εξέλιξης του μέσου $cs$ και του μέσου αριθμού καλυπτόμενων δειγμάτων από τους κανόνες του πληθυσμού στο πρόβλημα music.\relax }}{84}{figure.caption.17}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Καμπύλες εξέλιξης του μέσου αριθμού κάλυψης δειγμάτων των κανόνων του πληθυσμού για τιμές $\theta _{exp}=\{4,20,40\}$ στο σύνολο δεδομένων $mlPosition7$.\relax }}{94}{figure.caption.22}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Διαγράμματα χαρτογράφησης $mlPosition_7$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$.\relax }}{112}{figure.caption.31}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Διαγράμματα χαρτογράφησης $mlIdentity_{7}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$.\relax }}{113}{figure.caption.32}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{3}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$.\relax }}{114}{figure.caption.33}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{24}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$.\relax }}{114}{figure.caption.34}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Διαγράμματα χαρτογράφησης $mlPosition_{7}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0D}$.\relax }}{115}{figure.caption.35}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Διαγράμματα χαρτογράφησης $mlPosition_{7}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0GA}$.\relax }}{116}{figure.caption.36}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Διαγράμματα χαρτογράφησης $mlPosition_{7}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0M}$.\relax }}{117}{figure.caption.37}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Διαγράμματα χαρτογράφησης $mlPosition_{7}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0C}$.\relax }}{118}{figure.caption.38}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Διαγράμματα χαρτογράφησης $mlIdentity_{7}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0D}$.\relax }}{119}{figure.caption.39}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Διαγράμματα χαρτογράφησης $mlIdentity_{7}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0GA}$.\relax }}{120}{figure.caption.40}
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Διαγράμματα χαρτογράφησης $mlIdentity_{7}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0M}$.\relax }}{121}{figure.caption.41}
+\contentsline {figure}{\numberline {7.12}{\ignorespaces Διαγράμματα χαρτογράφησης $mlIdentity_{7}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0C}$.\relax }}{122}{figure.caption.42}
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{3}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0D}$.\relax }}{123}{figure.caption.43}
+\contentsline {figure}{\numberline {7.14}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{3}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0GA}$.\relax }}{123}{figure.caption.44}
+\contentsline {figure}{\numberline {7.15}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{3}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0M}$.\relax }}{124}{figure.caption.45}
+\contentsline {figure}{\numberline {7.16}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{3}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0C}$.\relax }}{124}{figure.caption.46}
+\contentsline {figure}{\numberline {7.17}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{24}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0D}$.\relax }}{125}{figure.caption.47}
+\contentsline {figure}{\numberline {7.18}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{24}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0GA}$.\relax }}{125}{figure.caption.48}
+\contentsline {figure}{\numberline {7.19}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{24}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0M}$.\relax }}{126}{figure.caption.49}
+\contentsline {figure}{\numberline {7.20}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{24}$ του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0C}$.\relax }}{126}{figure.caption.50}
+\contentsline {figure}{\numberline {7.21}{\ignorespaces Διαγράμματα χαρτογράφησης $mlPosition_{7}$ του GMl-ASLCS.\relax }}{130}{figure.caption.51}
+\contentsline {figure}{\numberline {7.22}{\ignorespaces Διαγράμματα χαρτογράφησης $mlIdentity_{7}$ του GMl-ASLCS.\relax }}{131}{figure.caption.52}
+\contentsline {figure}{\numberline {7.23}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{3}$ του GMl-ASLCS.\relax }}{132}{figure.caption.53}
+\contentsline {figure}{\numberline {7.24}{\ignorespaces Διαγράμματα χαρτογράφησης $adder_{7}^{24}$ του GMl-ASLCS.\relax }}{132}{figure.caption.54}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

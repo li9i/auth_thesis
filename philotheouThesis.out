@@ -1,0 +1,124 @@
+\BOOKMARK [0][-]{chapter.1}{Εισαγωγή}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Σκοπός της Διπλωματικής Εργασίας}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Μεθοδολογία Εργασίας}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Διάρθρωση της Αναφοράς}{chapter.1}% 4
+\BOOKMARK [-1][-]{part.1}{I Ανασκόπηση Γνωστικού Πεδίου}{}% 5
+\BOOKMARK [0][-]{chapter.2}{Μηχανική Μάθηση και Κατηγοριοποίηση}{part.1}% 6
+\BOOKMARK [1][-]{section.2.1}{Εισαγωγή}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{Μηχανική Μάθηση}{chapter.2}% 8
+\BOOKMARK [2][-]{subsection.2.2.1}{Εποπτευόμενη Μάθηση}{section.2.2}% 9
+\BOOKMARK [2][-]{subsection.2.2.2}{Ενισχυτική Μάθηση}{section.2.2}% 10
+\BOOKMARK [2][-]{subsection.2.2.3}{Μη Εποπτευόμενη Μάθηση}{section.2.2}% 11
+\BOOKMARK [1][-]{section.2.3}{Εξόρυξη Δεδομένων}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.4}{Κατηγοριοποίηση}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.4.1}{Μέθοδοι κατηγοριοποίησης}{section.2.4}% 14
+\BOOKMARK [2][-]{subsection.2.4.2}{Μετρικές Αξιολόγησης Αλγορίθμων Κατηγοριοποίησης}{section.2.4}% 15
+\BOOKMARK [1][-]{section.2.5}{Πολυκατηγορική ταξινόμηση}{chapter.2}% 16
+\BOOKMARK [2][-]{subsection.2.5.1}{Μέθοδοι Μετασχηματισμού Προβλημάτων}{section.2.5}% 17
+\BOOKMARK [2][-]{subsection.2.5.2}{Προσαρμογή Αλγορίθμων}{section.2.5}% 18
+\BOOKMARK [2][-]{subsection.2.5.3}{Συσχετίσεις Ετικετών}{section.2.5}% 19
+\BOOKMARK [2][-]{subsection.2.5.4}{Ιδιότητες Πολυκατηγορικών Συνόλων Δεδομένων}{section.2.5}% 20
+\BOOKMARK [2][-]{subsection.2.5.5}{Αξιολόγηση Πολυκατηγορικών Ταξινομητών}{section.2.5}% 21
+\BOOKMARK [2][-]{subsection.2.5.6}{Στρατηγικές Συμπερασμού Πολυκατηγορικών Ταξινομητών}{section.2.5}% 22
+\BOOKMARK [0][-]{chapter.3}{Γενετικοί Αλγόριθμοι}{part.1}% 23
+\BOOKMARK [1][-]{section.3.1}{Βιολογία και Γενετικοί Αλγορίθμοι}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.2}{Αλγόριθμος Εξέλιξης}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.3}{Διαδικασία Φυσικής Επιλογής}{chapter.3}% 26
+\BOOKMARK [2][-]{subsection.3.3.1}{Επιλογή Ρουλέτας}{section.3.3}% 27
+\BOOKMARK [1][-]{section.3.4}{Τελεστές Γενετικής Διασταύρωσης}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.5}{Τελεστές Γενετικής Μετάλλαξης}{chapter.3}% 29
+\BOOKMARK [1][-]{section.3.6}{Γενετικοί Αλγόριθμοι και Εξόρυξη Δεδομένων}{chapter.3}% 30
+\BOOKMARK [2][-]{subsection.3.6.1}{Αναπαραστάσεις Κανόνων ως Χρωμοσώματα}{section.3.6}% 31
+\BOOKMARK [1][-]{section.3.7}{Περιορισμοί και Πλεονεκτήματα των Γενετικών Αλγορίθμων}{chapter.3}% 32
+\BOOKMARK [0][-]{chapter.4}{Μανθάνοντα Συστήματα Ταξινομητών για Μονοκατηγορική Ταξινόμηση}{part.1}% 33
+\BOOKMARK [1][-]{section.4.1}{Γενικό Μοντέλο}{chapter.4}% 34
+\BOOKMARK [2][-]{subsection.4.1.1}{Είδη Προβλημάτων}{section.4.1}% 35
+\BOOKMARK [1][-]{section.4.2}{ZCS: ΜαΣΤ Βασισμένο στη Δύναμη}{chapter.4}% 36
+\BOOKMARK [1][-]{section.4.3}{XCS: ΜαΣΤ Βασισμένο στην Ακρίβεια Πρόβλεψης}{chapter.4}% 37
+\BOOKMARK [1][-]{section.4.4}{UCS: ΜαΣΤ για προβλήματα Επιβλεπόμενης Μάθησης}{chapter.4}% 38
+\BOOKMARK [1][-]{section.4.5}{*S-LCS: Γενικευμένα ΜαΣΤ για Εξόρυξη Δεδομένων}{chapter.4}% 39
+\BOOKMARK [-1][-]{part.2}{II Πολυκατηγορική Ταξινόμηση με  Μανθάνοντα Συστήματα Ταξινομητών}{}% 40
+\BOOKMARK [0][-]{chapter.5}{Πολυκατηγορική Ταξινόμηση με τον GMl-ASLCS0}{part.2}% 41
+\BOOKMARK [1][-]{section.5.1}{Τροποποίηση της Αναπαράστασης Κανόνων}{chapter.5}% 42
+\BOOKMARK [2][-]{subsection.5.1.1}{Αναπαράσταση Δυαδικών Γνωρισμάτων}{section.5.1}% 43
+\BOOKMARK [2][-]{subsection.5.1.2}{Αναπαράσταση Ονομαστικών Γνωρισμάτων}{section.5.1}% 44
+\BOOKMARK [2][-]{subsection.5.1.3}{Αναπαράσταση Συνθηκών Πραγματικών Γνωρισμάτων}{section.5.1}% 45
+\BOOKMARK [2][-]{subsection.5.1.4}{Αναπαράσταση του Τμήματος Απόφασης}{section.5.1}% 46
+\BOOKMARK [1][-]{section.5.2}{Συνιστώσα Ενίσχυσης}{chapter.5}% 47
+\BOOKMARK [2][-]{subsection.5.2.1}{Ενημέρωση Καταλληλότητας}{section.5.2}% 48
+\BOOKMARK [2][-]{subsection.5.2.2}{Ενημέρωση της εκτίμησης του μέσου μεγέθους των Correct Sets}{section.5.2}% 49
+\BOOKMARK [1][-]{section.5.3}{Συνιστώσα Εξερεύνησης}{chapter.5}% 50
+\BOOKMARK [2][-]{subsection.5.3.1}{Γενετικός Αλγόριθμος}{section.5.3}% 51
+\BOOKMARK [2][-]{subsection.5.3.2}{Λειτουργία Κάλυψης}{section.5.3}% 52
+\BOOKMARK [2][-]{subsection.5.3.3}{Αφαίρεση των κανόνων μηδενικής κάλυψης}{section.5.3}% 53
+\BOOKMARK [2][-]{subsection.5.3.4}{Αρχικοποίηση Παραμέτρων Κανόνων}{section.5.3}% 54
+\BOOKMARK [1][-]{section.5.4}{Συνιστώσα Επίδοσης}{chapter.5}% 55
+\BOOKMARK [2][-]{subsection.5.4.1}{Μέθοδος Ψηφοφορίας}{section.5.4}% 56
+\BOOKMARK [2][-]{subsection.5.4.2}{Μέθοδος ρύθμισης κατωφλίου PCut}{section.5.4}% 57
+\BOOKMARK [0][-]{chapter.6}{GMl-ASLCS: Η εξέλιξη του GMl-ASLCS0}{part.2}% 58
+\BOOKMARK [1][-]{section.6.1}{Ο Κύκλος Εκπαίδευσης του GMl-ASLCS}{chapter.6}% 59
+\BOOKMARK [1][-]{section.6.2}{Συνιστώσα Εξερεύνησης}{chapter.6}% 60
+\BOOKMARK [2][-]{subsection.6.2.1}{Τελεστής Διασταύρωσης}{section.6.2}% 61
+\BOOKMARK [2][-]{subsection.6.2.2}{Αντιμετώπιση Απογόνων Μηδενικής Κάλυψης}{section.6.2}% 62
+\BOOKMARK [2][-]{subsection.6.2.3}{Αφομοίωση-Υπαγωγή Απογόνων}{section.6.2}% 63
+\BOOKMARK [2][-]{subsection.6.2.4}{Διαδικασία Εισαγωγής Απογόνων στον Πληθυσμό}{section.6.2}% 64
+\BOOKMARK [2][-]{subsection.6.2.5}{Λειτουργία Διαγραφής}{section.6.2}% 65
+\BOOKMARK [1][-]{section.6.3}{Συνιστώσα Ενίσχυσης}{chapter.6}% 66
+\BOOKMARK [2][-]{subsection.6.3.1}{Ενημέρωση Καταλληλότητας}{section.6.3}% 67
+\BOOKMARK [2][-]{subsection.6.3.2}{Διεύρυνση της Μέσης Κάλυψης}{section.6.3}% 68
+\BOOKMARK [1][-]{section.6.4}{Παρατηρήσεις πάνω σε λειτουργίες του GMl-ASLCS }{chapter.6}% 69
+\BOOKMARK [2][-]{subsection.6.4.1}{Μη Συμμετοχή των Αδιαφοριών Στα Correct Sets}{section.6.4}% 70
+\BOOKMARK [2][-]{subsection.6.4.2}{Για την Έκπτωση Καταλληλότητας στη Συνιστώσα Εξερεύνησης}{section.6.4}% 71
+\BOOKMARK [2][-]{subsection.6.4.3}{Διάστημα Ενημέρωσης}{section.6.4}% 72
+\BOOKMARK [2][-]{subsection.6.4.4}{Παρατηρήσεις πάνω στη μέση κάλυψη}{section.6.4}% 73
+\BOOKMARK [2][-]{subsection.6.4.5}{Για το ρυθμό μεταβολής του μεγέθους του πληθυσμού στα πρώιμα στάδια της εκπαίδευσης}{section.6.4}% 74
+\BOOKMARK [1][-]{section.6.5}{Αρθρωτές Τροποποιήσεις}{chapter.6}% 75
+\BOOKMARK [2][-]{subsection.6.5.1}{Τροποποίηση της Ενημέρωσης Καταλληλότητας στη Συνιστώσα Ενίσχυσης}{section.6.5}% 76
+\BOOKMARK [2][-]{subsection.6.5.2}{Τροποποίηση της Λειτουργίας Διαγραφής}{section.6.5}% 77
+\BOOKMARK [2][-]{subsection.6.5.3}{Εναλλακτικές τιμές των μεταβλητών , }{section.6.5}% 78
+\BOOKMARK [2][-]{subsection.6.5.4}{Αρχικοποίηση Πληθυσμού μέσω Ομαδοποίησης}{section.6.5}% 79
+\BOOKMARK [1][-]{section.6.6}{Σύνοψη}{chapter.6}% 80
+\BOOKMARK [0][-]{chapter.7}{Πειράματα Τεχνητών Συνόλων Δεδομένων}{part.2}% 81
+\BOOKMARK [1][-]{section.7.1}{Περιγραφή των Τεχνητών Συνόλων Δεδομένων}{chapter.7}% 82
+\BOOKMARK [2][-]{subsection.7.1.1}{Το πρόβλημα mlPositionN}{section.7.1}% 83
+\BOOKMARK [2][-]{subsection.7.1.2}{Το πρόβλημα mlIdentityN}{section.7.1}% 84
+\BOOKMARK [2][-]{subsection.7.1.3}{Το πρόβλημα adderkN}{section.7.1}% 85
+\BOOKMARK [1][-]{section.7.2}{Παράμετροι Πειραμάτων και Αρχικές Παρατηρήσεις}{chapter.7}% 86
+\BOOKMARK [1][-]{section.7.3}{Αποτίμηση των Τροποποιήσεων του GMl-ASLCS0}{chapter.7}% 87
+\BOOKMARK [2][-]{subsection.7.3.1}{Ο GMl-ASLCS0 ως σημείο αναφοράς}{section.7.3}% 88
+\BOOKMARK [2][-]{subsection.7.3.2}{Οι τροποποιημένοι αλγόριθμοι GMl-ASLCS0* στο πρόβλημα mlPosition7}{section.7.3}% 89
+\BOOKMARK [2][-]{subsection.7.3.3}{Οι τροποποιημένοι αλγόριθμοι GMl-ASLCS0* στο πρόβλημα mlIdentity7}{section.7.3}% 90
+\BOOKMARK [2][-]{subsection.7.3.4}{Οι τροποποιημένοι αλγόριθμοι GMl-ASLCS0* στο πρόβλημα adder73}{section.7.3}% 91
+\BOOKMARK [2][-]{subsection.7.3.5}{Οι τροποποιημένοι αλγόριθμοι GMl-ASLCS0* στο πρόβλημα adder724}{section.7.3}% 92
+\BOOKMARK [2][-]{subsection.7.3.6}{Αποτίμηση της επίδρασης της τροποποιημένης λειτουργίας διαγραφής και του τελεστή διασταύρωσης Δύο Τμημάτων}{section.7.3}% 93
+\BOOKMARK [2][-]{subsection.7.3.7}{Αποτίμηση της επίδρασης της διαγραφής κανόνων με κριτήρια πάνω στα Match Sets}{section.7.3}% 94
+\BOOKMARK [2][-]{subsection.7.3.8}{Αποτίμηση της επίδρασης της έκπτωσης του αριθμού ορθών κατηγοριοποιήσεων για τους κανόνες που αδιαφορούν για ετικέτες}{section.7.3}% 95
+\BOOKMARK [1][-]{section.7.4}{Πολυκατηγορική Ταξινόμηση με τον GMl-ASLCS}{chapter.7}% 96
+\BOOKMARK [0][-]{chapter.8}{Πειράματα Πραγματικών Συνόλων Δεδομένων}{part.2}% 97
+\BOOKMARK [1][-]{section.8.1}{Υπό Μελέτη Σύνολα Δεδομένων}{chapter.8}% 98
+\BOOKMARK [1][-]{section.8.2}{Πειράματα σε Πραγματικά Σύνολα Δεδομένων}{chapter.8}% 99
+\BOOKMARK [2][-]{subsection.8.2.1}{Πειραματική Μεθοδολογία}{section.8.2}% 100
+\BOOKMARK [1][-]{section.8.3}{Συγκριτική Ανάλυση Αποτελεσμάτων}{chapter.8}% 101
+\BOOKMARK [2][-]{subsection.8.3.1}{Σύγκριση του GMl-ASLCS με τον προκάτοχό του}{section.8.3}% 102
+\BOOKMARK [2][-]{subsection.8.3.2}{Σύγκριση των Αλγορίθμων με βάση την Ακρίβεια}{section.8.3}% 103
+\BOOKMARK [2][-]{subsection.8.3.3}{Σύγκριση των Αλγορίθμων με βάση την Ακριβή Ορθότητα}{section.8.3}% 104
+\BOOKMARK [1][-]{section.8.4}{Επίδραση των Διαφοροποιήσεων στην Επίδοση του GMl-ASLCS}{chapter.8}% 105
+\BOOKMARK [2][-]{subsection.8.4.1}{Σύγκριση των Αλγορίθμων με βάση την ακρίβεια}{section.8.4}% 106
+\BOOKMARK [2][-]{subsection.8.4.2}{Σύγκριση των Αλγορίθμων με βάση την Ακριβή Ορθότητα}{section.8.4}% 107
+\BOOKMARK [2][-]{subsection.8.4.3}{Σχόλια πάνω στα αποτελέσματα}{section.8.4}% 108
+\BOOKMARK [1][-]{section.8.5}{Σύνοψη}{chapter.8}% 109
+\BOOKMARK [-1][-]{part.3}{III Συμπεράσματα & Μελλοντικές Επεκτάσεις}{}% 110
+\BOOKMARK [0][-]{chapter.9}{Συμπεράσματα}{part.3}% 111
+\BOOKMARK [1][-]{section.9.1}{Περιορισμοί και Πλεονεκτήματα των ΜαΣΤ}{chapter.9}% 112
+\BOOKMARK [0][-]{chapter.10}{Μελλοντικές Επεκτάσεις}{part.3}% 113
+\BOOKMARK [1][-]{section.10.1}{Μη επίμονη ενημέρωση παραμέτρων των κανόνων του ΜαΣΤ}{chapter.10}% 114
+\BOOKMARK [1][-]{section.10.2}{Αντικατάσταση της μεθόδου υπολογισμού της Ακρίβειας των Κανόνων}{chapter.10}% 115
+\BOOKMARK [1][-]{section.10.3}{Περί του GA}{chapter.10}% 116
+\BOOKMARK [1][-]{section.10.4}{Περί του exp}{chapter.10}% 117
+\BOOKMARK [1][-]{section.10.5}{Περί των διαγραφών}{chapter.10}% 118
+\BOOKMARK [1][-]{section.10.6}{Συσχετίσεις Ετικετών}{chapter.10}% 119
+\BOOKMARK [1][-]{section.10.7}{Περί της εκτίμησης του μεγέθους cs}{chapter.10}% 120
+\BOOKMARK [1][-]{section.10.8}{Διαμοιρασμός Καταλληλότητας}{chapter.10}% 121
+\BOOKMARK [-1][-]{part.4}{IV Παραρτήματα}{}% 122
+\BOOKMARK [0][-]{appendix.Alph1}{Αντιστοίχιση επιστημονικών όρων στα Αγγλικά}{part.4}% 123
+\BOOKMARK [0][-]{table.Alph1.1}{Βιβλιογραφία}{part.4}% 124

@@ -1,0 +1,15 @@
+\contentsline {algorithm}{\numberline {3.1}{\ignorespaces Γενική Μορφή Γενετικού Αλγορίθμου.\relax }}{33}{algorithm.3.1}
+\contentsline {algorithm}{\numberline {3.2}{\ignorespaces Επιλογής Γονέα μέσω Επιλογής Ρουλέτας.\relax }}{35}{algorithm.3.2}
+\contentsline {algorithm}{\numberline {5.1}{\ignorespaces Ο κύκλος εκπαίδευσης του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$\relax }}{57}{algorithm.5.1}
+\contentsline {algorithm}{\numberline {5.2}{\ignorespaces Παραγωγή του Match Set στον GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$\relax }}{57}{algorithm.5.2}
+\contentsline {algorithm}{\numberline {5.3}{\ignorespaces Παραγωγή του Correct Set στον GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$\relax }}{58}{algorithm.5.3}
+\contentsline {algorithm}{\numberline {5.4}{\ignorespaces Συνιστώσα Ενημέρωσης του GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$\relax }}{58}{algorithm.5.4}
+\contentsline {algorithm}{\numberline {5.5}{\ignorespaces Διαγραφή των κανόνων μηδενικής κάλυψης στον GMlASLCS$_{\tmspace +\medmuskip {.2222em}0}$\relax }}{58}{algorithm.5.5}
+\contentsline {algorithm}{\numberline {5.6}{\ignorespaces Ενημέρωση της καταλληλότητας στον GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$\relax }}{59}{algorithm.5.6}
+\contentsline {algorithm}{\numberline {5.7}{\ignorespaces Ενημέρωση της εκτίμησης του μέσου μεγέθους των Correct Set στον GMl-ASLCS$_{\tmspace +\medmuskip {.2222em}0}$ (όπου $\beta $ ο ρυθμός μάθησης.}}{60}{algorithm.5.7}
+\contentsline {algorithm}{\numberline {5.8}{\ignorespaces Μέθοδος ρύθμισης κατωφλίου \textsc {Pcut}\relax }}{68}{algorithm.5.8}
+\contentsline {algorithm}{\numberline {6.1}{\ignorespaces Ο κύκλος εκπαίδευσης του GMl-ASLCS\relax }}{70}{algorithm.6.1}
+\contentsline {algorithm}{\numberline {6.2}{\ignorespaces Η λειτουργία του Γενετικού Αλγορίθμου στον GMl-ASLCS\relax }}{75}{algorithm.6.2}
+\contentsline {algorithm}{\numberline {6.3}{\ignorespaces Η διαδικασία Διασταύρωσης Δύο Τμημάτων στον GMl-ASLCS}}{75}{algorithm.6.3}
+\contentsline {algorithm}{\numberline {6.4}{\ignorespaces Η λειτουργία αφομοίωσης-υπαγωγής στον GMl-ASLCS\relax }}{81}{algorithm.6.4}
+\contentsline {algorithm}{\numberline {6.5}{\ignorespaces Ενημέρωση της καταλληλότητας στον GMl-ASLCS.\relax }}{87}{algorithm.6.5}

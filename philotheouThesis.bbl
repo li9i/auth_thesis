@@ -1,0 +1,302 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{BMGG03}
+
+\bibitem[AKA91]{aha1991instance}
+D.W. Aha, D.~Kibler, and M.K. Albert.
+\newblock Instance-based learning algorithms.
+\newblock {\em Machine learning}, 6(1):37--66, 1991.
+
+\bibitem[Aly05]{aly2005survey}
+M.~Aly.
+\newblock {Survey on Multiclass Classification Methods}.
+\newblock 2005.
+
+\bibitem[ATM13]{DBLP:conf/icannga/allamanis13}
+Miltiadis Allamanis, Fani~A. Tzima, and Pericles~A. Mitkas.
+\newblock Effective rule-based multi-label classification with learning
+  classifier systems.
+\newblock In {\em ICANNGA}, pages 466--476, 2013.
+
+\bibitem[BBMH08]{DBLP:series/sci/2008-125}
+Larry Bull, Ester Bernad{\'o}-Mansilla, and John~H. Holmes, editors.
+\newblock {\em {Learning Classifier Systems in Data Mining}}, volume 125 of
+  {\em Studies in Computational Intelligence}.
+\newblock Springer, 2008.
+
+\bibitem[BGV92]{boser1992training}
+B.E. Boser, I.M. Guyon, and V.N. Vapnik.
+\newblock A training algorithm for optimal margin classifiers.
+\newblock In {\em Proceedings of the fifth annual workshop on Computational
+  learning theory}, pages 144--152. ACM, 1992.
+
+\bibitem[BLSB04]{boutell2004learning}
+M.R. Boutell, J.~Luo, X.~Shen, and C.M. Brown.
+\newblock {Learning multi-label scene classification* 1}.
+\newblock {\em Pattern Recognition}, 37(9):1757--1771, 2004.
+
+\bibitem[BMGG03]{bernado2003}
+E.~Bernad{\'o}-Mansilla and J.M. Garrell-Guiu.
+\newblock Accuracy-based learning classifier systems: models, analysis and
+  applications to classification tasks.
+\newblock {\em Evolutionary Computation}, 11(3):209--238, 2003.
+
+\bibitem[Buc02]{buckland2002ai}
+M.~Buckland.
+\newblock {\em {AI techniques for game programming}}.
+\newblock Course Technology, 2002.
+
+\bibitem[BW01]{butzXCS}
+M.~Butz and S.~Wilson.
+\newblock An algorithmic description of xcs.
+\newblock {\em Advances in Learning Classifier Systems}, pages 267--274, 2001.
+
+\bibitem[CK01]{clare2001knowledge}
+A.~Clare and R.~King.
+\newblock Knowledge discovery in multi-label phenotype data.
+\newblock {\em Principles of Data Mining and Knowledge Discovery}, pages
+  42--53, 2001.
+
+\bibitem[DTMV05]{diplaris2005protein}
+S.~Diplaris, G.~Tsoumakas, P.~Mitkas, and I.~Vlahavas.
+\newblock {Protein classification with multiple algorithms}.
+\newblock {\em Advances in Informatics}, pages 448--456, 2005.
+
+\bibitem[EW02]{elisseeff2002kernel}
+A.~Elisseeff and J.~Weston.
+\newblock {Kernel methods for multi-labelled classification and categorical
+  regression problems}.
+\newblock {\em Advances in neural information processing systems}, 14:681--687,
+  2002.
+
+\bibitem[Fre05]{freitas}
+Alex~A. Freitas.
+\newblock {\em {Evolutionary Algorithms for Data Mining}}, volume {The Data
+  Mining and Knowledge Discovery Handbook}, pages 435--467.
+\newblock Springer, January 2005.
+
+\bibitem[Fri40]{Friedman1940}
+Milton Friedman.
+\newblock {A Comparison of Alternative Tests of Significance for the Problem of
+  m Rankings}.
+\newblock {\em {The Annals of Mathematical Statistics}}, 11(1):86--92, 1940.
+
+\bibitem[Gol02]{goldberg02}
+David~E. Goldberg.
+\newblock {\em {The Design of Innovation: Lessons from and for Competent
+  Genetic Algorithms}}.
+\newblock Kluwer Academic Publishers, Norwell, MA, USA, 2002.
+
+\bibitem[HK06]{han2006data}
+J.~Han and M.~Kamber.
+\newblock {\em {Data mining: concepts and techniques}}.
+\newblock Morgan Kaufmann, 2006.
+
+\bibitem[Hol75]{holland}
+John~H. Holland.
+\newblock {\em {Adaptation in Natural and Artificial Systems: An Introductory
+  Analysis with Applications to Biology, Control and Artificial Intelligence}}.
+\newblock University of Michigan Press, Ann Arbor, MI, USA, 1975.
+
+\bibitem[HR78]{holland78}
+J.~H. Holland and J.~S. Reitman.
+\newblock Cognitive systems based on adaptive algorithms.
+\newblock In D.~A. Waterman and F.~Hayes-Roth, editors, {\em Pattern directed
+  inference systems}, pages 313--329. Academic Press, New York, 1978.
+
+\bibitem[HSCB91]{hanson1991bayesian}
+R.~Hanson, J.~Stutz, P.~Cheeseman, and Ames Research Center. Artificial
+  Intelligence~Research Branch.
+\newblock {\em Bayesian classification theory}.
+\newblock Citeseer, 1991.
+
+\bibitem[KK01]{kovacs01}
+Tim Kovacs and Manfred Kerber.
+\newblock {What Makes a Problem Hard for XCS?}
+\newblock In {\em IWLCS '00: Revised Papers from the Third International
+  Workshop on Advances in Learning Classifier Systems}, pages 80--102, London,
+  UK, 2001. Springer-Verlag.
+
+\bibitem[Kov00]{kovacs00}
+Tim Kovacs.
+\newblock {Strength or Accuracy? Fitness Calculation in Learning Classifier
+  Systems}.
+\newblock In {\em Learning Classifier Systems, From Foundations to
+  Applications}, pages 143--160, London, UK, 2000. Springer-Verlag.
+
+\bibitem[LZZ06]{li2006empirical}
+T.~Li, C.~Zhang, and S.~Zhu.
+\newblock {Empirical studies on multi-label classification}.
+\newblock In {\em Proceedings of the 18th IEEE international conference on
+  tools with artificial intelligence}, pages 86--92. Citeseer, 2006.
+
+\bibitem[MBK07]{2000697}
+James Marshall, Gavin Brown, and Tim Kovacs.
+\newblock Bayesian estimation of rule accuracy in ucs.
+\newblock In {\em Proceedings of the 2007 GECCO Conference Companion on Genetic
+  and Evolutionary Computation}, pages 2831--2834. ACM Press, July 2007.
+
+\bibitem[Mil11]{allamanis11}
+Allamanis Miltiadis.
+\newblock Multilabel classification with learning classifier systems.
+\newblock diploma thesis, Aristotle University of Thessaloniki, 2011.
+
+\bibitem[Mit97]{mitchell}
+Thomas~M. Mitchell.
+\newblock {\em {Machine Learning}}.
+\newblock McGraw-Hill Higher Education, 1997.
+
+\bibitem[Mur98]{murthy}
+Sreerama~K. Murthy.
+\newblock {Automatic Construction of Decision Trees from Data: A
+  Multi-Disciplinary Survey}.
+\newblock {\em {Data Mining and Knowledge Discovery}}, 2(4):345--389, 1998.
+
+\bibitem[Nem63]{nemenyi63}
+P.B Nemenyi.
+\newblock {\em {Distribution-free multiple comparisons.}}
+\newblock PhD thesis, Princeton University, 1963.
+
+\bibitem[OPBM08]{orriols2008revisiting}
+A.~Orriols-Puig and E.~Bernad{\'o}-Mansilla.
+\newblock {Revisiting UCS: Description, fitness sharing, and comparison with
+  xcs}.
+\newblock {\em Learning Classifier Systems}, pages 96--116, 2008.
+
+\bibitem[PBM{\etalchar{+}}07]{pestian2007shared}
+J.P. Pestian, C.~Brew, P.~Matykiewicz, DJ~Hovermale, N.~Johnson, K.B. Cohen,
+  and W.~Duch.
+\newblock {A shared task involving multi-label classification of clinical free
+  text}.
+\newblock In {\em Proceedings of the Workshop on BioNLP 2007: Biological,
+  Translational, and Clinical Language Processing}, pages 97--104. Association
+  for Computational Linguistics, 2007.
+
+\bibitem[Rea10]{read2010scalable}
+J.~Read.
+\newblock {Scalable Multi-label Classification}.
+\newblock 2010.
+
+\bibitem[RLS04]{raez2004}
+Arturo~M. R\'{a}ez, Lu\'{\i}s~A. L\'{o}pez, and Ralf Steinberger.
+\newblock {Adaptive Selection of Base Classifiers in One-Against-All Learning
+  for Large Multi-labeled Collections}.
+\newblock In Jos\'{e}~L. Vicedo, Patricio Mart\'{\i}nez-Barco, Rafael
+  Mu\~{n}oz, and Maximiliano Saiz~Noeda, editors, {\em Advances in Natural
+  Language Processing}, volume 3230 of {\em Lecture Notes in Computer Science},
+  chapter~1, pages 1--12. Springer Berlin / Heidelberg, Berlin, Heidelberg,
+  2004.
+
+\bibitem[RPH08]{read2008multi}
+J.~Read, B.~Pfahringer, and G.~Holmes.
+\newblock {Multi-label classification using ensembles of pruned sets}.
+\newblock In {\em 2008 Eighth IEEE International Conference on Data Mining},
+  pages 995--1000. IEEE, 2008.
+
+\bibitem[RPHF09]{read2009classifier}
+J.~Read, B.~Pfahringer, G.~Holmes, and E.~Frank.
+\newblock {Classifier chains for multi-label classification}.
+\newblock {\em Machine Learning and Knowledge Discovery in Databases}, pages
+  254--269, 2009.
+
+\bibitem[SS00]{schapire2000boostexter}
+R.E. Schapire and Y.~Singer.
+\newblock Boostexter: A boosting-based system for text categorization.
+\newblock {\em Machine learning}, 39(2):135--168, 2000.
+
+\bibitem[TK07]{tsoumakas2007multi}
+G.~Tsoumakas and I.~Katakis.
+\newblock {Multi-label classification: An overview}.
+\newblock {\em International Journal of Data Warehousing and Mining},
+  3(3):1--13, 2007.
+
+\bibitem[TM13]{Tzima2010a}
+Fani~A. Tzima and Pericles~A. Mitkas.
+\newblock Strength-based learning classifier systems revisited: effective rule
+  evolution in supervised classification tasks.
+\newblock {\em Engineering Applications of Artificial Intelligence},
+  20(2):818--832, 2013.
+
+\bibitem[TSK05]{tan}
+Pang-Ning Tan, Michael Steinbach, and Vipin Kumar.
+\newblock {\em {Introduction to Data Mining, (First Edition)}}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 2005.
+
+\bibitem[TTKV08]{trohidis2008multilabel}
+K.~Trohidis, G.~Tsoumakas, G.~Kalliris, and I.~Vlahavas.
+\newblock {Multilabel classification of music into emotions}.
+\newblock In {\em Proc. 9th International Conference on Music Information
+  Retrieval (ISMIR 2008), Philadelphia, PA, USA}, volume 2008, 2008.
+
+\bibitem[TTM12]{Tzima2010b}
+Fani~A. Tzima, John~B. Theocharis, and Pericles~A. Mitkas.
+\newblock Clustering-based initialization of learning classifier systems.
+  effects on model performance, readability and induction time.
+\newblock {\em Soft Computing - A Fusion of Foundations, Methodologies and
+  Applications}, 16:1267--1286, 2012.
+\newblock 10.1007/s00500-012-0811-y.
+
+\bibitem[TV07]{tsoumakas2007random}
+G.~Tsoumakas and I.~Vlahavas.
+\newblock {Random k-labelsets: An ensemble method for multilabel
+  classification}.
+\newblock {\em Machine Learning: ECML 2007}, pages 406--417, 2007.
+
+\bibitem[Tzi12]{tzima12}
+A.F. Tzima.
+\newblock {\em Learning Classifier Systems for Supervised Classification
+  Problems.}
+\newblock PhD thesis, Aristotle University of Thessaloniki, 2012.
+
+\bibitem[Wat89]{watkins1989learning}
+C.J.C.H. Watkins.
+\newblock Learning from delayed rewards.
+\newblock 1989.
+
+\bibitem[WF05]{weka}
+Ian~H. Witten and Eibe Frank.
+\newblock {\em Data Mining: Practical Machine Learning Tools and Techniques
+  (2nd Edition)}.
+\newblock Morgan Kaufmann, San Francisco, 2005.
+
+\bibitem[Wil94]{WilsonZCS}
+Stewart~W. Wilson.
+\newblock {ZCS: A Zeroth-level Classifier System}.
+\newblock {\em {Evolutionary Computation}}, 2(1):1--18, 1994.
+
+\bibitem[Wil95]{XCS}
+Stewart~W. Wilson.
+\newblock {Classifier fitness based on accuracy}.
+\newblock {\em {Evolutionary Computation}}, 3(2):149--175, 1995.
+
+\bibitem[YTS07]{yan2007}
+Rong Yan, Jelena Tesic, and John~R. Smith.
+\newblock Model-shared subspace boosting for multi-label classification.
+\newblock In {\em Proceedings of the 13th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, KDD '07, pages 834--843, New York,
+  NY, USA, 2007. ACM.
+
+\bibitem[Zha00]{zhang2000neural}
+G.P. Zhang.
+\newblock Neural networks for classification: a survey.
+\newblock {\em Systems, Man, and Cybernetics, Part C: Applications and Reviews,
+  IEEE Transactions on}, 30(4):451--462, 2000.
+
+\bibitem[ZZ06]{zhang2006}
+Min-Ling Zhang and Zhi-Hua Zhou.
+\newblock Multilabel neural networks with applications to functional genomics
+  and text categorization.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  18:1338--1351, October 2006.
+
+\bibitem[ZZ07]{zhang2007ml}
+M.L. Zhang and Z.H. Zhou.
+\newblock {ML-KNN: A lazy learning approach to multi-label learning}.
+\newblock {\em Pattern Recognition}, 40(7):2038--2048, 2007.
+
+\bibitem[ZZ10]{zhang2010multi}
+M.L. Zhang and K.~Zhang.
+\newblock {Multi-label learning by exploiting label dependency}.
+\newblock In {\em Proceedings of the 16th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 999--1008. ACM, 2010.
+
+\end{thebibliography}
